@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "502996265580",
+    "project_id": "gazeguardnoti",
+    "storage_bucket": "gazeguardnoti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502996265580:android:f881b65fe9a7a2288b8649",
+        "android_client_info": {
+          "package_name": "com.notitest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502996265580-a3sgm3bta3fb43k0ti91gpt3mqa3fpng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcNdW0gcquOfRL3hpnCJaj-dKpeut4sZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502996265580-a3sgm3bta3fb43k0ti91gpt3mqa3fpng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
